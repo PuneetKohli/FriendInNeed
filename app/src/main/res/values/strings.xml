@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">Friend In Need</string>
+
+  <string name="intro_slide1_title">Friend in Need</string>
+  <string name="intro_slide1_content">Get rid of fears, depression and anxiety by sharing anonymously with your close friends!</string>
+
+  <string name="intro_slide2_title">We\'re here for you!</string>
+  <string name="intro_slide2_content">Your network of friends is your strongest support system. We are all here to help you through your tough time.</string>
+
+  <string name="intro_slide3_title">As anonymous as you want!</string>
+  <string name="intro_slide3_content">Your friends will never get to know you\'re sharing your private thoughts and feelings unless you want them to know!</string>
+
+  <string name="facebook_app_id">1808554562778484</string>
+  <string name="termsString">By continuing you agree to <a href="https://getlaunchr.com/terms.html">Terms</a> &amp; <a href="https://getlaunchr.com/privacy.html">Privacy Policy</a></string>
+
+</resources>

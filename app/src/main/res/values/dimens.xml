@@ -1,0 +1,38 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="text_vertical_margin">8dp</dimen>
+    <dimen name="text_horizontal_margin">8dp</dimen>
+
+    <dimen name="fb_margin_override_top">13dp</dimen>
+    <dimen name="fb_margin_override_bottom">13dp</dimen>
+    <!--The next value changes the margin between the FB icon and the left border:-->
+    <dimen name="fb_margin_override_lr">10dp</dimen>
+    <dimen name="item_vertical_margin">8dp</dimen>
+    <!--The next value changes the margin between the FB icon and the login text:-->
+    <dimen name="fb_margin_override_textpadding">17dp</dimen>
+    <dimen name="action_vertical_margin">18dp</dimen>
+
+    <dimen name="welcome_slide_title">16dp</dimen>
+    <dimen name="welcome_slide_description">14dp</dimen>
+    <dimen name="save_button_text_size">17dp</dimen>
+
+    <dimen name="settingsCellHeight">70dp</dimen>
+    <dimen name="settingsHeaderHeight">56dp</dimen>
+    <dimen name="settingsCellTextSize">15sp</dimen>
+    <dimen name="settingsHeaderTextSize">13sp</dimen>
+
+    <dimen name="profileViewHeader">16sp</dimen>
+    <dimen name="profileViewSubheader">14sp</dimen>
+    <dimen name="editTextHeader">12sp</dimen>
+
+    <dimen name="profile_row_bottom_padding">20dp</dimen>
+    <dimen name="profile_row_top_padding">20dp</dimen>
+    <dimen name="profile_view_text_left_header">60dp</dimen>
+    <dimen name="profile_edit_view_text_left_header">28dp</dimen>
+    <dimen name="profile_edit_view_text_right_header">34dp</dimen>
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="@drawable/gradient_2"
+  >
+
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="32dp"
+    android:orientation="vertical"
+    >
+    <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="16dp"
+      android:text="Help Your Friend"
+      android:textAlignment="center"
+      android:textColor="@color/white"
+      android:textSize="32dp"/>
+
+    <TextView
+      android:id="@+id/text_message"
+      android:layout_width="match_parent"
+      android:layout_height="120dp"
+      android:layout_marginBottom="32dp"
+      android:text="test text"
+      android:textAlignment="center"
+      android:textColor="@color/white"
+      android:textSize="16dp"/>
+
+    <EditText
+      android:layout_gravity="top"
+      android:gravity="top"
+      android:padding="8dp"
+      android:hint="Please help out your friend with some kind words, love and support!"
+      android:id="@+id/edittext_message"
+      android:layout_width="match_parent"
+      android:layout_height="200dp"
+      android:layout_marginBottom="32dp"
+      android:background="@color/white"/>
+
+    <Button
+      android:id="@+id/button_send_message"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="@color/accent"
+      android:text="Share love"
+      android:textColor="@color/white"/>
+  </LinearLayout>
+</RelativeLayout>

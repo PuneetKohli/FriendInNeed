@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#4C5089</color>
+  <color name="colorPrimaryDark">#4C5089</color>
+  <color name="colorAccent">#ff80ab</color>
+  <color name="notification_message_color">#CE98FF</color>
+  <color name = "ripple">#FFC7D4</color>
+  <color name="background_color">#FEFEFE</color>
+  <color name="settings_background_color">#F0F4FA</color>
+  <color name="primary">@color/colorPrimary</color>
+  <color name="primary_dark">@color/colorPrimaryDark</color>
+  <color name="accent">@color/colorAccent</color>
+  <color name="acceptcolor">#36EBA6</color>
+  <color name="passcolor">#474D61</color>
+  <color name ="lightpink">#FFADC7</color>
+  <color name="settings_accent">@color/colorAccent</color>
+  <color name="white">#fff</color>
+  <color name="notifications_color">@color/colorAccent</color>
+  <color name="disabled_grey">#DFE2ED</color>
+  <color name="pink_active">#EF83ED</color>
+  <color name="background_grey_white">#FAFAFA</color>
+  <color name="dark_text">#474D61</color>
+  <color name="settings_header">#B4B7E0</color>
+  <color name="light_text">#848BA2</color>
+  <color name="light_divider">#E2E2ED</color>
+  <color name="notif_color">#62CEAD</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="270"
+    android:toDegrees="270">
+    <shape
+        android:innerRadiusRatio="2.5"
+        android:shape="ring"
+        android:thickness="2.2dp"
+        android:useLevel="true">
+        <solid android:color="#FF7CA5" />
+        <corners android:radius="2dp"/>
+    </shape>
+</rotate>

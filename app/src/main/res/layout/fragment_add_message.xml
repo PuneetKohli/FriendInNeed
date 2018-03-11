@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="@drawable/gradient"
+  >
+
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="32dp"
+    android:orientation="vertical"
+    >
+    <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="16dp"
+      android:text="Get help from your network!"
+      android:textAlignment="center"
+      android:textColor="@color/white"
+      android:textSize="32dp"/>
+
+    <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="32dp"
+      android:text="Anonymously share your thoughts, fears, guilts and anxiety with your network. Your friends are there for you, and they'll surely reach out to help you - they are only a message away. If you are comfortable you can take the conversation forward online."
+      android:textAlignment="center"
+      android:textColor="@color/white"
+      android:textSize="16dp"/>
+
+    <EditText
+      android:layout_gravity="top"
+      android:gravity="top"
+      android:padding="8dp"
+      android:hint="Don't fret! Writing is the first step to getting relief and quick help!"
+      android:id="@+id/edittext_message"
+      android:layout_width="match_parent"
+      android:layout_height="200dp"
+      android:layout_marginBottom="32dp"
+      android:background="@color/white"/>
+
+    <Button
+      android:id="@+id/button_send_message"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="@color/white"
+      android:text="Get help"
+      android:textColor="@color/primary"/>
+  </LinearLayout>
+</RelativeLayout>

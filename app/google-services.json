@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1096150172975",
+    "firebase_url": "https://friendinneed369.firebaseio.com",
+    "project_id": "friendinneed369",
+    "storage_bucket": "friendinneed369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096150172975:android:ed4219de2ef04ec4",
+        "android_client_info": {
+          "package_name": "com.csegsahack.friendinneed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096150172975-hfl8r6h40r9js01291ihl7ra15nrq83k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxc2-ymS2M3Et_H7Di19FySF00SljRZO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
